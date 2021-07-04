@@ -1,0 +1,13 @@
+.sec1 {
+  display: flex;
+}
+h1 {
+  color: #707070;
+  font-size: 50px;
+}
+.list-color {
+  color: #707070;
+}
+.name {
+  width: 50%;
+}
