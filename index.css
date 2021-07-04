@@ -3,6 +3,7 @@ body {
 }
 .sec1 {
   display: flex;
+  margin-bottom: 80px;
 }
 h1 {
   color: #707070;
@@ -24,8 +25,8 @@ h2 {
 }
 .img {
   width: 50%;
-  margin-top: 100px;
-  margin-right: 500px;
+  padding-top: 100px;
+  padding-right: 500px;
 } /*
 .imgsharif {
   
@@ -46,4 +47,15 @@ h2 {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
+}
+.avat {
+  padding-left: 400px;
+}
+.dream {
+  display: flex;
+}
+.para {
+  width: 50%;
+  padding-right: 490px;
+  font-family: sans-serif;
 }
