@@ -62,9 +62,28 @@ h2 {
 }
 .claflex {
   display: flex;
+  margin-bottom: 100px;
   padding-left: 370px;
+  padding-right: 370px;
 }
 .wh {
   padding-left: 330px;
-  padding-bottom: 80px;
+  padding-bottom: 30px;
+}
+
+.g,
+.h,
+.j {
+  border: 1px solid #ada6a6;
+  margin-right: 50px;
+  padding: 20px 15px 10px 17px;
+  border-radius: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer {
+  margin-bottom: 200px;
+  margin-left: 320px;
+  color: gray;
+  font-weight: 900;
+  font-weight: bolder;
 }
