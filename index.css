@@ -53,9 +53,18 @@ h2 {
 }
 .dream {
   display: flex;
+  margin-bottom: 200px;
 }
 .para {
   width: 50%;
   padding-right: 490px;
   font-family: sans-serif;
+}
+.claflex {
+  display: flex;
+  padding-left: 370px;
+}
+.wh {
+  padding-left: 330px;
+  padding-bottom: 80px;
 }
